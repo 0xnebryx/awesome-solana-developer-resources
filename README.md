@@ -27,6 +27,7 @@ Inclusion criteria: must be actively maintained, must work in production, must s
 - [`@meteora-ag/dlmm`](https://github.com/MeteoraAg/dlmm-sdk) — Dynamic liquidity market makers
 - [`@jup-ag/api`](https://station.jup.ag/docs/apis/swap-api) — Jupiter v6 swap API
 - [`jito-ts`](https://github.com/jito-labs/mev-protect-sdk) — Jito bundle submission
+- [`@sodax/sdk`](https://github.com/icon-project/sodax-sdks) — cross-network execution SDK (swaps, money-market lending, bridging from a Solana wallet across 10+ chains without maintaining bridge infra)
 
 ## Frameworks for on-chain programs
 
